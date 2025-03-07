@@ -5,7 +5,7 @@
 
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
   <div>
-    <img src="https://cdn.example.com/coupon-books-generator.png" alt="Coupon Books Generator" />
+    <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/examples.png" alt="Coupon Books Generator" />
   </div>
 </figure>
 
