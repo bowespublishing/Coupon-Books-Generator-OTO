@@ -3,12 +3,6 @@
 <p>Coupon Books Generator is an intuitive, cloud-based tool that makes it easy to create high-quality coupon books for Amazon KDP with minimal effort.</p>
 <p>Explore the comprehensive <strong>Coupon Books Generator</strong> system that includes a Front End plus multiple upsell options—Pro, Premium, and Elite. Enjoy huge discounts and bonus packages when you purchase through my referral link.</p>
 
-<figure class="w-richtext-align-center w-richtext-figure-type-image">
-  <div>
-    <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/examples.png" alt="Coupon Books Generator" />
-  </div>
-</figure>
-
 <p>If you buy it through my referral link, I will reward you with exclusive bonuses that can help you earn even more when you launch your KDP business.</p>
 
 <h2>Coupon Books Generator OVERVIEW</h2>
@@ -31,6 +25,18 @@
   <li><strong>Smart Automation:</strong> Benefit from 1-CLICK page cloning, drag-and-drop text editing, and instant layout shuffling to save time.</li>
   <li><strong>Flexible Design Tools:</strong> Enjoy over 900 font options and adjustable margins to fit any KDP trim size.</li>
 </ul>
+
+<h2>WHAT SORT OF BOOKS CAN I CREATE?</h2>
+
+<p>Here are some examples of books actually selling on Amazon</p>
+
+<figure class="w-richtext-align-center w-richtext-figure-type-image">
+  <div>
+    <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/examples.png" alt="Coupon Books Generator" />
+  </div>
+</figure>
+
+
 
 <h2>COUPON BOOKS GENERATOR OTOS</h2>
 <p>OTOs work best when you have the Front End in place. You can add one or more upsell offers below:</p>
