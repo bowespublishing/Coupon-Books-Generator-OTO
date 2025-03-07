@@ -5,7 +5,7 @@
 
 <p>If you buy it through my referral link, I will reward you with exclusive bonuses that can help you earn even more when you launch your KDP business.</p>
 
-<strong><a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="nofollow noopener">Secure it all HERE/</a></strong></p>
+<strong><a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="nofollow noopener">Secure it all HERE</a></strong></p>
 
 <h2>Coupon Books Generator OVERVIEW</h2>
 <ul>
@@ -62,3 +62,18 @@
 </ul>
 
 <p>Coupon Books Generator isn’t just a design tool—it’s a complete production system that gives you a competitive edge in the crowded KDP market. When you purchase through my referral link, you also unlock exclusive bonus packages that further accelerate your success.</p>
+
+<h2>BONUS</h2>
+
+<p>Remember, if you purchase through my link, you will receive two <strong>EPIC</strong> bonuses:</p>
+<ul>
+  <li>FREE access to ChatGPT through my AI chat tool</li>
+  <li>An individual, non-bundled puzzle generator from <a href="https://bowespublishing.gumroad.com/" target="_blank" rel="noopener">Gumroad</a></li>
+</ul>
+
+<p>REMEMBER! If you buy this product through my link, you can also get these huge bonuses (please note that these bonuses are not available for the TRIAL or FREE versions).</p>
+
+<p>You have an opportunity to receive extra bonuses if you complete the 2 steps below:</p>
+
+<p><strong>♦ Step 1:</strong> Order the product by clicking <a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="noopener">here</a>.</p>
+<p><strong>♦ Step 2:</strong> After your purchase goes through, email your receipt to me at <a href="mailto:bowespublishing@gmail.com">bowespublishing@gmail.com</a> so I can confirm your purchase and send you the details on how to access your bonus material.</p>
