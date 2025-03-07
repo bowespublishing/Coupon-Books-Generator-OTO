@@ -43,7 +43,7 @@
 <h2>To see the tool in action, check out the video below:</h2>
 
 <a href="https://www.youtube.com/watch?v=2ZcQfWRMRW4" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/youtube.png" alt="Watch Video" style="max-width:100%; height:auto;">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/youtube.png" alt="Watch Video" style="max-width:50%; height:auto;">
 </a>
 
 <h2>COUPON BOOKS GENERATOR OTOS</h2>
