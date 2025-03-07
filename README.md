@@ -42,8 +42,9 @@
 
 <h2>To see the tool in action, check out the video below:</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZcQfWRMRW4?si=A3qE7dYJVXu5zTXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<a href="https://www.youtube.com/watch?v=2ZcQfWRMRW4" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/youtube.png" alt="Watch Video" style="max-width:100%; height:auto;">
+</a>
 
 <h2>COUPON BOOKS GENERATOR OTOS</h2>
 <p>OTOs work best when you have the Front End in place. You can add one or more upsell offers below:</p>
