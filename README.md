@@ -47,15 +47,24 @@
 </a>
 
 <h2>COUPON BOOKS GENERATOR OTOS</h2>
-<p>OTOs work best when you have the Front End in place. You can add one or more upsell offers below:</p>
+<p>OTOs are optional upgrades to add features to the product after you purchase the Front End. Below is a link to secure the FE and details of what is included in each optional upgrade:</p>
 <p><strong>Coupon Books Generator FE</strong><br />
-<strong><a href="https://couponbooksgenerator.com/fe-link" target="_blank" rel="nofollow noopener">>>> Grab the Front End Offer</a></strong></p>
+<a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/fe.png" alt="Front End" style="max-width:50%; height:auto;">
+</a>
+<strong><a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="nofollow noopener">>>> Grab the Front End Offer</a></strong></p>
 <p><strong>Coupon Books Generator OTO 1: PRO</strong><br />
-<strong><a href="https://couponbooksgenerator.com/pro-link" target="_blank" rel="nofollow noopener">https://example.com/coupon-books-generator-pro/</a></strong></p>
+<a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/pro.png" alt="Front End" style="max-width:50%; height:auto;">
+</a>
 <p><strong>Coupon Books Generator OTO 2: PREMIUM</strong><br />
-<strong><a href="https://couponbooksgenerator.com/premium-link" target="_blank" rel="nofollow noopener">https://example.com/coupon-books-generator-premium/</a></strong></p>
+<a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/premium.png" alt="Front End" style="max-width:50%; height:auto;">
+</a>
 <p><strong>Coupon Books Generator OTO 3: ELITE</strong><br />
-<strong><a href="https://couponbooksgenerator.com/elite-link" target="_blank" rel="nofollow noopener">https://example.com/coupon-books-generator-elite/</a></strong></p>
+<a href="https://bowespublishing.com/couponbookgenerator" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/bowespublishing/Coupon-Books-Generator-OTO/main/images/elite.png" alt="Front End" style="max-width:50%; height:auto;">
+</a>
 
 <h2>WHY COUPON BOOKS GENERATOR CAN TRANSFORM YOUR KDP BUSINESS</h2>
 <p>Coupon Books Generator tackles the real problems indie publishers face:</p>
